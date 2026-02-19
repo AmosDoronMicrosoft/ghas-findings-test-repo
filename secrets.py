@@ -102,6 +102,7 @@ ADMIN_USERNAME = 'root'
 ADMIN_PASSWORD = 'RootAdmin123!@#'
 SUPERUSER_PASSWORD = 'SuperUser@Password2024'
 DEFAULT_PASSWORD = 'Password123!'
+SOME_CHANGE = "oihoih"
 
 # API Endpoints with credentials
 API_ENDPOINT = 'https://api.example.com/v1'
