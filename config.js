@@ -25,7 +25,7 @@ module.exports = {
     stripePublic: 'pk_live_51HqXYZ9876543210zyxwvutsrqponmlkjihgfedcba',
     github: 'ghp_1234567890abcdefghijklmnopqrstuvwxyz',
     githubToken: 'github_pat_11AABBCCDD1234567890_ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890ABCDEFGHIJKLMNOPQR',
-    slack: 'xoxb-1234567890-1234567890123-AbCdEfGhIjKlMnOpQrStUvWx',
+    slack: 'xoxb-1234567890123-1234567890123-AbCdEfGhIjKlMnOpQrStUvWx',
     sendgrid: 'SG.1234567890abcdefghijklm.nopqrstuvwxyz1234567890ABCDEFGHIJKLMNOPQRSTUVWXYZ',
     twilio: 'SK1234567890abcdef1234567890abcdef',
     openai: 'sk-proj-1234567890abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ',
